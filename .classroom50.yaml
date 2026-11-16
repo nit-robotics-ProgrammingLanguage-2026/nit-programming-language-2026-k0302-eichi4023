@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0302"
+secret: "nmm2dsr0"
+owner:
+  username: "eichi4023"
+  id: 338414977
+  accepted_at: "2026-11-16T02:39:07Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0302-scanf_double"
+  branch: "main"
